@@ -11,8 +11,6 @@ The initial project brief outlines the Trust's online goals, the audiences we ai
 - Maintaining a searchable registry of surviving wartime vessels.
 - Celebrating the volunteers, restorers, and communities who keep these histories alive.
 
-For the full creative and technical direction, see [`docs/website-brief.md`](docs/website-brief.md).
-
 ## Next Steps
 
 Future updates will translate the brief into a working site architecture, establish a visual identity that balances remembrance with accessibility, and implement the required content management and registry features.
