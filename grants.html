@@ -21,14 +21,39 @@
         color: #1e2a3a;
       }
 
-      .navbar {
-        background-color: #0f1f33;
+    .navbar {
+      background-color: #0f1f33;
+    }
+
+    .navbar-brand,
+    .nav-link {
+      color: #f5f0e6 !important;
+    }
+
+    .navbar-brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .navbar-brand-logo {
+      height: 48px;
+      width: auto;
+    }
+
+    .navbar-brand-title {
+      line-height: 1.2;
+    }
+
+    @media (max-width: 576px) {
+      .navbar-brand-logo {
+        height: 40px;
       }
 
-      .navbar-brand,
-      .nav-link {
-        color: #f5f0e6 !important;
+      .navbar-brand-title {
+        font-size: 0.95rem;
       }
+    }
 
       .hero {
         background: linear-gradient(rgba(15, 31, 51, 0.75), rgba(15, 31, 51, 0.75)),
@@ -83,7 +108,10 @@
     <header>
       <nav class="navbar navbar-expand-lg navbar-dark py-3" aria-label="Primary navigation">
         <div class="container">
-          <a class="navbar-brand fw-semibold" href="index.html">Wartime Maritime Memorial Trust</a>
+        <a class="navbar-brand fw-semibold" href="index.html">
+          <img src="images/logo.svg" class="navbar-brand-logo" alt="Wartime Maritime Memorial Trust logo" />
+          <span class="navbar-brand-title">Wartime Maritime Memorial Trust</span>
+        </a>
           <button
             class="navbar-toggler"
             type="button"

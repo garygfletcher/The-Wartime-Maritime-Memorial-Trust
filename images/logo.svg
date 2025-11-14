@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Wartime Maritime Memorial Trust logo</title>
+  <desc id="logoDesc">Stylised ship wheel encircling a commemorative star.</desc>
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6e3b1" />
+      <stop offset="100%" stop-color="#caa968" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="#0f1f33" />
+  <circle cx="60" cy="60" r="44" fill="none" stroke="url(#goldGradient)" stroke-width="6" />
+  <g stroke="#f5f0e6" stroke-width="4" stroke-linecap="round">
+    <line x1="60" y1="8" x2="60" y2="26" />
+    <line x1="60" y1="94" x2="60" y2="112" />
+    <line x1="8" y1="60" x2="26" y2="60" />
+    <line x1="94" y1="60" x2="112" y2="60" />
+    <line x1="23" y1="23" x2="36" y2="36" />
+    <line x1="84" y1="84" x2="97" y2="97" />
+    <line x1="97" y1="23" x2="84" y2="36" />
+    <line x1="23" y1="97" x2="36" y2="84" />
+  </g>
+  <polygon points="60,38 66,54 83,54 69,64 74,80 60,70 46,80 51,64 37,54 54,54" fill="url(#goldGradient)" />
+</svg>
