@@ -1,10 +1,10 @@
-# The Wartime Maritime Memorial Trust Website
+# The Wartime Maritime Memorial Association Website
 
-This repository hosts the groundwork for The Wartime Maritime Memorial Trust's official website. The site will serve as a living digital memorial that honours wartime vessels and their crews while spotlighting the custodians who preserve their legacy today.
+This repository hosts the groundwork for The Wartime Maritime Memorial Association's official website. The site will serve as a living digital memorial that honours wartime vessels and their crews while spotlighting the custodians who preserve their legacy today.
 
 ## Project Overview
 
-The initial project brief outlines the Trust's online goals, the audiences we aim to reach, and the planned structure for the website experience. Key priorities include:
+The initial project brief outlines the Association's online goals, the audiences we aim to reach, and the planned structure for the website experience. Key priorities include:
 
 - Providing educational resources, archival material, and commemorative storytelling.
 - Supporting preservation efforts through grant information and restoration showcases.
